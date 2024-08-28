@@ -22,4 +22,4 @@ function inflationCalculator() {
     newElement.innerText = `Todays ${money} euro will be worth ${worth} euro in ${years} years.`;
 
     document.querySelector('.container').appendChild(newElement);
-
+}
